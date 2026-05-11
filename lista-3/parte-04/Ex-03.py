@@ -1,3 +1,9 @@
+"""
+Quantidade de dígitos
+Escreva um programa que leia um número inteiro positivo e informe quantos dígitos ele possui. Utilize
+divisões sucessivas por 10.
+"""
+
 num = int(input())
 
 contagem_digitos = 0

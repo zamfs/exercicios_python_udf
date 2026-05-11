@@ -1,3 +1,10 @@
+"""
+Caixa eletrônico (menor número de cédulas)
+Escreva um programa que leia um valor inteiro de saque e determine o menor número de cédulas
+necessárias para compor esse valor, usando cédulas de 200, 100, 50, 20, 10, 5 e 2 reais. Utilize while
+para processar cada tipo de cédula.
+"""
+
 valor = int(input())
 
 nota200 = 0

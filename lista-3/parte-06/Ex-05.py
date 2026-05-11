@@ -1,3 +1,10 @@
+"""
+Número palíndromo
+Escreva um programa que leia números inteiros positivos até que o usuário digite 0 (sentinela). Para
+cada número, o programa deve informar se ele é um palíndromo (ou seja, se o número lido de trás para
+frente é igual ao original). Ao final, exiba quantos palíndromos foram encontrados.
+"""
+
 num = int(input('Digite um número para saber se ele é palíndromo. Digite 0 para parar: '))
 
 num_palindromos = 0

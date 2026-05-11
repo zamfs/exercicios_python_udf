@@ -1,3 +1,9 @@
+"""
+Número primo
+Escreva um programa que leia um número inteiro positivo maior que 1 e informe se ele é primo ou
+não. Utilize um laço while para testar divisores.
+"""
+
 num = int(input())
 
 if num <= 1:

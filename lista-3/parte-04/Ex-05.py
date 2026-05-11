@@ -1,3 +1,9 @@
+"""
+ Inversão de número
+Escreva um programa que leia um número inteiro positivo e exiba-o com os dígitos na ordem inversa.
+Exemplo: 1234 → 4321.
+"""
+
 num = int(input())
 
 repeticao = True

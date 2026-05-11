@@ -1,3 +1,9 @@
+"""
+Conversão decimal para binário
+Escreva um programa que leia um número inteiro positivo em base decimal e exiba sua representação
+em binário, utilizando divisões sucessivas por 2.
+"""
+
 entrada = int(input())
 
 num = entrada

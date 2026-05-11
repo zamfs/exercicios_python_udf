@@ -1,3 +1,8 @@
+"""
+oma dos dígitos
+Escreva um programa que leia um número inteiro positivo e calcule a soma de seus dígitos.
+"""
+
 num = int(input())
 
 soma_digitos = 0

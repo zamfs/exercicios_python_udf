@@ -1,3 +1,9 @@
+"""
+Somatório de ímpares
+Escreva um programa que leia um número inteiro positivo N e calcule a soma de todos os números
+ímpares de 1 até N.
+"""
+
 N = int(input())
 
 soma = 0

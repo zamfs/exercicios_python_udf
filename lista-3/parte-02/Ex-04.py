@@ -1,3 +1,9 @@
+"""
+Contagem de positivos, negativos e zeros
+Escreva um programa que leia números inteiros até que o usuário digite 999 (sentinela). Ao final,
+informe quantos valores positivos, negativos e zeros foram digitados.
+"""
+
 print('Digite 999 para parar.')
 num = int(input('Digite um número: '))
 

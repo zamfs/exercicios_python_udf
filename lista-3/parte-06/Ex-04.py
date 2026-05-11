@@ -1,4 +1,10 @@
-#Número da população da cidade A e B
+"""
+Colisão de populações
+A cidade A possui 80.000 habitantes e cresce 3% ao ano. A cidade B possui 200.000 habitantes e
+cresce 1,5% ao ano. Escreva um programa que calcule em quantos anos a população de A ultrapassará
+a de B. Caso A nunca ultrapasse B em até 500 anos, informe essa condição.
+"""
+
 A = 80000
 B = 200000
 

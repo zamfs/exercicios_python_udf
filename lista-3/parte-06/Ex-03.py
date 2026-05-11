@@ -1,3 +1,10 @@
+"""
+Investimento com juros compostos
+Escreva um programa que leia o capital inicial, a taxa de juros mensal (%) e o valor desejado. O
+programa deve calcular e informar quantos meses são necessários para que o capital atinja ou supere o
+valor desejado.
+"""
+
 capital_inicial = float(input('Digite o capital inicial: '))
 taxa_juros = float(input('Digite a taxa de juros mensais. (Exemplo de entrada: 1.5): '))
 valor_desejado = float(input('Valor desejado: '))

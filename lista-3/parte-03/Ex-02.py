@@ -1,3 +1,10 @@
+"""
+Senha de acesso
+Escreva um programa que peça ao usuário uma senha numérica. O programa deve continuar pedindo
+enquanto a senha digitada for diferente de 2025. Ao acertar, exiba "Acesso liberado" e quantas
+tentativas foram necessárias.
+"""
+
 entrada = int(input('Digite a senha: '))
 
 tentativas = 0
