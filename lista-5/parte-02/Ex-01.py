@@ -1,3 +1,10 @@
+"""
+Área do retângulo
+Escreva uma função chamada area_retangulo que receba a base (float) e a altura (float) como
+parâmetros e retorne a área. No programa principal, leia os valores, chame a função, armazene o
+resultado em uma variável e exiba-o com duas casas decimais.
+"""
+
 def area_retangulo(b, h):
     """
     Função para calcular a área de um retângulo.

@@ -1,3 +1,11 @@
+"""
+Calculadora modular
+Escreva quatro funções: somar, subtrair, multiplicar e dividir. Cada uma recebe dois números (float) e
+retorna o resultado da operação correspondente. A função dividir deve retornar a string “Erro: divisão
+por zero” caso o divisor seja 0. No programa principal, leia dois números e um operador (+, -, *, /), use
+uma estrutura if/elif para chamar a função adequada e exiba o resultado.
+"""
+
 def somar(a,b):
     """
     Função que realiza a soma entre dois números.

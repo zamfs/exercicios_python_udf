@@ -1,3 +1,10 @@
+"""
+Dados pessoais
+Escreva uma função chamada ficha_cadastral que receba três parâmetros: nome (str), idade (int) e
+altura (float). A função deve exibir os dados formatados, mostrando a altura com duas casas decimais.
+No programa principal, leia os três dados e chame a função.
+"""
+
 def ficha_cadastral(nome_usuario, idade_usuario, altura_usuario):
     """
     Realiza a formatação de dados cadastrais.

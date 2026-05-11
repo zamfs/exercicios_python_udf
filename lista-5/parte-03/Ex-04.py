@@ -1,3 +1,13 @@
+"""
+ogo de adivinhação
+Escreva uma função chamada gerar_secreto que não receba parâmetros e retorne um número inteiro
+aleatório entre 1 e 50 (use import random e random.randint). Escreva outra função chamada dar_dica
+que receba o palpite (int) e o número secreto (int) e retorne a string “Maior”, “Menor” ou “Acertou”.
+No programa principal, use gerar_secreto para obter o número, depois crie um laço while que peça
+palpites ao usuário, chame dar_dica, exiba a dica e conte as tentativas. Ao acertar, exiba o total de
+tentativas.
+"""
+
 import random
 
 def gerar_secreto():

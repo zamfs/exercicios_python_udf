@@ -1,3 +1,14 @@
+"""
+Relatório de notas
+Escreva as seguintes funções: (a) ler_nota, que receba uma mensagem (str) como parâmetro e retorne
+uma nota válida entre 0 e 10 (float), usando um laço while com try/except para validar a entrada; (b)
+calcular_media, que receba três notas (float) e retorne a média aritmética; (c) classificar, que receba a
+média (float) e retorne “Aprovado”, “Recuperação” ou “Reprovado” conforme as faixas ≥ 7, ≥ 5 ou <
+5; (d) exibir_boletim, que receba nome (str), três notas e a situação (str) e exiba um boletim formatado.
+No programa principal, leia o nome do aluno, use ler_nota três vezes, calcule a média com
+calcular_media, classifique com classificar e exiba tudo com exibir_boletim.
+"""
+
 def ler_nota(msg):
     """
     Função para fazer a leitura da nota.

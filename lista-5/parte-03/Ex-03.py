@@ -1,3 +1,13 @@
+"""
+Salário líquido
+Escreva uma função chamada calcular_imposto que receba o salário bruto (float) e retorne o valor do
+imposto conforme as faixas: até R$ 1.500,00 → isento (0.0); de R$ 1.500,01 a R$ 3.500,00 → 15%;
+acima de R$ 3.500,00 → 27,5%. Em seguida, escreva uma função chamada salario_liquido que receba
+o salário bruto, chame internamente calcular_imposto e retorne o salário líquido (bruto − imposto). No
+programa principal, leia o nome (str) e o salário bruto do funcionário, chame salario_liquido e exiba
+um contracheque formatado com nome, bruto, imposto e líquido.
+"""
+
 def calcular_imposto(salario_bruto):
     """
     Função para calcular a porcentagem de imposto levando em consideração o salário.

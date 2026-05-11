@@ -1,3 +1,11 @@
+"""
+Situação do aluno
+Escreva uma função chamada situacao_aluno que receba duas notas (float) e retorne uma string:
+“Aprovado” se a média for maior ou igual a 7, “Recuperação” se for maior ou igual a 5, ou
+“Reprovado” caso contrário. No programa principal, leia as notas, chame a função e exiba o nome do
+aluno junto com sua situação.
+"""
+
 def situacao_aluno(nota_1, nota_2):
     """
     Verifica se o aluno foi aprovado ou não.

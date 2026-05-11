@@ -1,3 +1,12 @@
+"""
+Validador de triângulo
+Escreva uma função chamada eh_triangulo que receba três lados (float) e retorne True se eles formam
+um triângulo válido (cada lado deve ser menor que a soma dos outros dois) ou False caso contrário.
+Em seguida, escreva uma segunda função chamada tipo_triangulo que receba os mesmos três lados e
+retorne “Equilátero”, “Isósceles” ou “Escaleno”. No programa principal, leia os três lados, use
+eh_triangulo para verificar a validade e, se válido, chame tipo_triangulo e exiba a classificação.
+"""
+
 def eh_triangulo(lado_1,lado_2,lado_3):
     """
     Função para verificar se os 3 lados formam um triângulo

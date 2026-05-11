@@ -1,3 +1,11 @@
+"""
+Preço com desconto
+Escreva uma função chamada aplicar_desconto que receba o preço original (float) e o percentual de
+desconto (float, com valor padrão de 10.0). A função deve retornar o preço final. No programa
+principal, leia o preço, chame a função uma vez sem informar o desconto (usará 10%) e outra vez
+informando 25%, exibindo ambos os resultados.
+"""
+
 def aplicar_desconto(preco, percentual_desconto):
     """
     Função que pega o preço do produto e aplica o desconto.
