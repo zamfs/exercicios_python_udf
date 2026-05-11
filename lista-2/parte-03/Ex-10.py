@@ -1,3 +1,9 @@
+"""
+Classificação de triângulo por lados. Leia três valores. Primeiro verifique se formam um
+triângulo válido. Se formarem, classifique-o como Equilátero (3 lados iguais), Isósceles (2 lados
+iguais) ou Escaleno (todos diferentes).
+"""
+
 a = int(input())
 b = int(input())
 c = int(input())

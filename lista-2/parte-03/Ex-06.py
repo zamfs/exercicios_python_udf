@@ -1,3 +1,8 @@
+"""
+Calculadora simples. Leia dois números e um operador (+, -, *, /). Exiba o resultado da operação.
+Trate a divisão por zero e operador inválido.
+"""
+
 operador = input('Operador: ')
 num1 = float(input('Num 1: '))
 num2 = float(input('Num 2: '))

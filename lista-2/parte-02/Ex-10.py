@@ -1,3 +1,8 @@
+"""
+Triângulo válido. Leia três valores representando lados de um triângulo. Informe se eles podem
+ou não formar um triângulo (cada lado deve ser menor que a soma dos outros dois).
+"""
+
 a = int(input())
 b = int(input())
 c = int(input())

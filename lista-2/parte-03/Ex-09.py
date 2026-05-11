@@ -1,3 +1,8 @@
+"""
+Pedra, papel e tesoura. Leia a jogada do jogador 1 e do jogador 2 (pedra, papel ou tesoura).
+Exiba quem venceu ou se houve empate.
+"""
+
 jogador1 = input().lower()
 jogador2 = input().lower()
 

@@ -1,3 +1,9 @@
+"""
+Menu de lanchonete. Exiba um menu com 4 opções numeradas (lanche, suco, café, água) e
+seus preços. Leia a opção e exiba o item escolhido com o valor. Se a opção for inválida, avise o
+usuário.
+"""
+
 opcao = input()
 
 opcao = opcao.lower()
