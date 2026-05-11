@@ -1,3 +1,14 @@
+"""
+Escreva um programa que simule um sistema de cadastro simplificado. O programa deve:
+a) Usar while True para manter o menu ativo;
+b) Oferecer opções: 1 – Adicionar nome, 2 – Listar nomes, 3 – Buscar nome, 4 – Sair;
+c) Na opção 1, adicionar o nome a uma lista;
+d) Na opção 2, usar for com enumerate() para listar os nomes;
+e) Na opção 3, usar for-else com break para buscar;
+f) Na opção 4, usar break para encerrar;
+g) Para opções inválidas, usar continue
+"""
+
 print('==== MENU ====')
 print('1 - Cadastrar\n2 - Consultar\n3 - Relatório\n4 - Sair')
 

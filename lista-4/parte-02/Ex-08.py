@@ -1,3 +1,8 @@
+"""
+Escreva um programa que receba uma frase do usuário e conte quantas vogais, consoantes e espaços
+existem na frase, utilizando um laço for.
+"""
+
 frase = input('Digite uma frase: ').lower()
 
 vogais = 0

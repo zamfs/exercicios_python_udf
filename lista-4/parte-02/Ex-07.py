@@ -1,3 +1,8 @@
+"""
+Crie um programa que utilize for para verificar se um número inteiro positivo fornecido pelo usuário é
+primo. Utilize a estrutura for-else para exibir a mensagem adequada.
+"""
+
 n = int(input('Digite um número: '))
 
 if n <= 1:

@@ -1,3 +1,15 @@
+"""
+Escreva um programa que gere e exiba o Triângulo de Pascal com n linhas (informado pelo usuário).
+Utilize laços for aninhados. Cada linha deve ser exibida formatada e centralizada. Utilize pass como
+placeholder se decidir separar a lógica de cálculo da lógica de exibição em etapas distintas.
+Exemplo para n=5:
+1
+1 1
+1 2 1
+1 3 3 1
+1 4 6 4 1
+"""
+
 numero_linhas = int(input('Números de linhas do triângulo de Pascal: '))
 
 for linha in range(numero_linhas):

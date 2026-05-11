@@ -1,3 +1,8 @@
+"""
+Escreva um programa que leia n números inteiros e conte separadamente quantos são positivos,
+negativos e iguais a zero.
+"""
+
 num_de_repeticoes = int(input('Quantas repetições? '))
 
 positivo = 0

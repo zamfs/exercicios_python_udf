@@ -1,3 +1,12 @@
+"""
+Escreva um programa que exiba a seguinte pirâmide centralizada, onde n é fornecido pelo usuário:
+*
+***
+*****
+*******
+*********
+"""
+
 n = int(input('Digite o número de linhas: '))
 
 for i in range(1, n+1):
