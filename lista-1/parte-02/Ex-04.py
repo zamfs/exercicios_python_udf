@@ -1,3 +1,8 @@
+"""
+Desconto Simples em Produto: O preço de um produto na vitrine sofreu uma redução de 10%. Leia o preço original,
+calcule o valor do desconto e mostre o preço final a pagar
+"""
+
 valor_produto = float(input())
 
 valor_com_desconto = valor_produto * 0.9

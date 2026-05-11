@@ -1,3 +1,8 @@
+"""
+Desconto na Compra: Uma loja oferece desconto se o valor da compra for maior que R$ 500,00 OU se o cliente for "VIP"
+(dado lógico). Leia o valor e o status VIP e exiba o direito ao desconto.
+"""
+
 valor_compra = float(input())
 verif_compra = valor_compra > 500.00
 

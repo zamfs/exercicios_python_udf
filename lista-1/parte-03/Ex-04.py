@@ -1,3 +1,8 @@
+"""
+Operadores Lógicos (Aprovação): Uma escola exige média igual ou superior a 7.0 E frequência igual ou superior a 75%.
+Leia os dois dados e exiba o status lógico de aprovação.
+"""
+
 nota  = float(input())
 frequencia = int(input()) #porcentagem ex: 80%
 

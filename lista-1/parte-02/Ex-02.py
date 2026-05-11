@@ -1,3 +1,8 @@
+"""
+Idade em Dias: Crie um algoritmo que leia a idade de uma pessoa expressa em anos, meses e dias (considere que um ano
+tem 365 dias e um mês 30 dias). Exiba a idade convertida totalmente em dias.
+"""
+
 anos = int(input())
 meses = int(input())
 dias = int(input())

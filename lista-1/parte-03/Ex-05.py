@@ -1,3 +1,8 @@
+"""
+Critério de Empréstimo: Um banco aprova empréstimos para clientes que tenham salário superior a R$ 2.500,00 E nome
+limpo. Leia o salário e um valor lógico (verdadeiro/falso) referente ao nome e exiba o resultado.
+"""
+
 salario = float(input())
 verif_salario = salario > 2500.00
 
