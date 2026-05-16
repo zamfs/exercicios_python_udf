@@ -62,6 +62,27 @@ Exercícios focados em:
 
 ---
 
+### 📌 Lista 6 — Estruturas de Dados (Listas, Sets e Dicionários)
+Exercícios utilizando:
+
+- Listas (list)
+- Conjuntos (set)
+- Dicionários (dict)
+- Manipulação de coleções de dados
+- Métodos e funções úteis como:
+    max()
+    min()
+    sum()
+    len()
+    .items()
+    .keys()
+    .values()
+    .get()
+    
+Foco em organização de dados, buscas, filtragens, contagens e manipulação de estruturas compostas.
+
+---
+
 ## 🎯 Objetivo
 
 Desenvolver a base da lógica de programação antes de utilizar recursos mais avançados da linguagem.
